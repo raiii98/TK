@@ -50,9 +50,14 @@ Step 8: Khởi động lại Service và kiểm tra xem đã đổi port chưa
     netstat -lntp
 ### 3. Tắt tường lửa cho port trên VPS
 Step 1: Vào `Set up fire wall rules` trên trình quản lý VPS
+
 Step 2: Ấn ` Create fire wall rules`
+
+
 Step 3: Cấu hình mọi thứ như hình sau:
+
 ![](Picture/4.png)
+
 Step 4: Ấn create để tạo cấu hình firewall.
 
 
