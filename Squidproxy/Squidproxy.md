@@ -71,6 +71,4 @@ https://www.youtube.com/watch?v=pLERrVIuc3w&ab_channel=To%E1%BA%A3nQu%E1%BB%91c
 
 Press play to see the video.
 
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/embed/pLERrVIuc3w" type="video/mp4">
-</video>
+
